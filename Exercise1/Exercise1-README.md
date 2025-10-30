@@ -57,16 +57,16 @@ The following core APIs were activated to support ML and data workflows.
 | Cloud Storage | `storage.googleapis.com` | Dataset storage and retrieval | Enabled |
 
 **Screenshots:**  
-- ![Vertex AI Enabled](images/Day1_GCPSetup/vertex_ai.png)  
-- ![BigQuery Enabled](images/Day1_GCPSetup/bigquery_api.png)  
-- ![Cloud Storage Enabled](images/Day1_GCPSetup/cloud_storage_api.png)  
+- ![Vertex AI Enabled](vertex_ai.jpg)  
+- ![BigQuery Enabled](bigquery_api.jpg)  
+- ![Cloud Storage Enabled](cloud_storage_api.png.jpg)  
 
 **Command Used:**  
 ```bash
 gcloud services list --enabled
 ````
 
-![Enabled Services](images/Day1_GCPSetup/gcloud_enabled_services.png)
+![Enabled Services](gcloud_enabled_services.png.jpg)
 
 ---
 
@@ -85,8 +85,8 @@ Instead of using default project credentials, this account ensures clear securit
 
 **Verification Screenshots:**
 
-* ![Service Account Created](images/Day1_GCPSetup/service_account_created.png)
-* ![IAM Role Verification](images/Day1_GCPSetup/iam_roles_check.png)
+* ![Service Account Created](service_account_created.png.jpg)
+* ![IAM Role Verification](iam_roles_check.png.jpg)
 
 **Command Verification:**
 
@@ -121,7 +121,7 @@ The dataset from the UCI repository was uploaded successfully.
 | `bank-additional-names.txt` | TXT  | 5 KB   |
 
 **Screenshot of Uploaded Files:**
-![Dataset in Bucket](images/Day1_GCPSetup/dataset_uploaded.png)
+![Dataset in Bucket](dataset_uploaded.png.jpg)
 
 ---
 
