@@ -40,7 +40,7 @@ A new GCP project was created and linked to a free-trial billing account.
 This enables access to APIs, monitoring, and budgeting.
 
 **Verification Screenshot:**  
-![Billing Overview](images/Day1_GCPSetup/billing_overview.png)
+![Billing Overview](images/Exercise1/billing_overview.jpg)
 
 ---
 
